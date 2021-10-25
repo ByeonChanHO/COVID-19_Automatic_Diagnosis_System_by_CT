@@ -2,4 +2,4 @@
 CT기반 코로나 자동진단 시스템 개발
 
 
-![image](https://user-images.githubusercontent.com/38696775/138699483-8dad67f2-ae71-4d59-b2ec-ffa0802ae864.png)
+![image](https://user-images.githubusercontent.com/38696775/138699633-b6e7d2ff-6b3a-449c-bed4-e98b45d425f4.png)
